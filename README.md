@@ -83,9 +83,9 @@ maps\atcsye.map <sup>[1, 4](#Credit-1)</sup> \
 scripts\atcsye.arena <sup>[1](#Credit-1)</sup> \
 scripts\atcsye.shader <sup>[1](#Credit-1)</sup> \
 scripts\shaderlist.txt <sup>[1](#Credit-1)</sup> \
-sounds\atcsye\ambient.wav <sup>[?](#Credit-?)</sup> \
-sounds\atcsye\ing_fan02.wav <sup>[?](#Credit-?)</sup> \
-sounds\atcsye\ing_noiseloop02.wav <sup>[?](#Credit-?)</sup> \
+sounds\atcsye\ambient.wav <sup>[?](#Credit-Unknown)</sup> \
+sounds\atcsye\ing_fan02.wav <sup>[?](#Credit-Unknown)</sup> \
+sounds\atcsye\ing_noiseloop02.wav <sup>[?](#Credit-Unknown)</sup> \
 textures\atcsye\black.jpg <sup>[1](#Credit-1)</sup> \
 textures\atcsye\floor_checkerplates.jpg <sup>[1](#Credit-1)</sup> \
 textures\atcsye\light_plates_blue.jpg <sup>[1](#Credit-1)</sup> \
@@ -164,7 +164,7 @@ License: Attribution License
 Content: Unvanquished Logo \
 License: Attribution License
 
-### Credit-?
+### Credit-Unknown
 
 Author, Origin and License unknown \
 For this group and its associated files, the rights and claims of other parties under different legal provisions remain unaltered or are subject to their respective licensing regulations.
