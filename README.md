@@ -164,7 +164,7 @@ License: Attribution License
 Content: Unvanquished Logo \
 License: Attribution License
 
-### Credit-?
+### Credit-0
 
 Author, Origin and License unknown \
 For this group and its associated files, the rights and claims of other parties under different legal provisions remain unaltered or are subject to their respective licensing regulations.
