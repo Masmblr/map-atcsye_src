@@ -72,64 +72,64 @@ Unofficial successor "Unvanquished": https://unvanquished.net
 ## Legal Information and Attribution
 Some assets may be derivative works or subject to different licenses. Please refer for author and license details. Note that some files may have been modified. Below is a list of files and their legal statuses.
 ***
-env\atcsye\skybox_bk.jpg <sup>[1](#author-1)</sup> \
-env\atcsye\skybox_dn.jpg <sup>[1](#author-1)</sup> \
-env\atcsye\skybox_ft.jpg <sup>[1](#author-1)</sup> \
-env\atcsye\skybox_lf.jpg <sup>[1](#author-1)</sup> \
-env\atcsye\skybox_rt.jpg <sup>[1](#author-1)</sup> \
-env\atcsye\skybox_up.jpg <sup>[1](#author-1)</sup> \
-levelshots\atcsye.jpg <sup>[1](#author-1)</sup> \
-maps\atcsye.map <sup>[1, 4](#author-1)</sup> \
-scripts\atcsye.arena <sup>[1](#author-1)</sup> \
-scripts\atcsye.shader <sup>[1](#author-1)</sup> \
-scripts\shaderlist.txt <sup>[1](#author-1)</sup> \
-sounds\atcsye\ambient.wav <sup>[?](#author-?)</sup> \
-sounds\atcsye\ing_fan02.wav <sup>[?](#author-?)</sup> \
-sounds\atcsye\ing_noiseloop02.wav <sup>[?](#author-?)</sup> \
-textures\atcsye\black.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\floor_checkerplates.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\light_plates_blue.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\light_plates_red.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\light_small_01.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\light_small_01_add.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\light_small_01_add_blue.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\light_small_01_add_red.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\nature_rocks.jpg <sup>[3](#author-3)</sup> \
-textures\atcsye\nature_water.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\sfx_forcefield.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\sfx_forcefield_base.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\sfx_unvq.jpg <sup>[1, 5](#author-5)</sup> \
-textures\atcsye\sfx_unvq_add.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\sfx_ye.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\sign_bases.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\sign_edge.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\sign_edge_add.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_02.jpg <sup>[1, 2](#author-1)</sup> \
-textures\atcsye\tech_03.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_04.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_05.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_06.jpg <sup>[2](#author-2)</sup> \
-textures\atcsye\tech_07.jpg <sup>[1, 2](#author-1)</sup> \
-textures\atcsye\tech_box_01.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_box_02.jpg <sup>[1, 2](#author-1)</sup> \
-textures\atcsye\tech_caution.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_pipe_01.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_pipes.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_plates.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\tech_shield.jpg <sup>[2](#author-2)</sup> \
-textures\atcsye\tech_vent.jpg <sup>[1, 2](#author-1)</sup> \
-textures\atcsye\trim_01.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_blue.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_mid.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_neutral.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_red.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_step_01.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_step_02.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_step_03.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_thin.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_thin_02.jpg <sup>[1](#author-1)</sup> \
-textures\atcsye\wall_01_thin_03.jpg <sup>[1](#author-1)</sup> 
+env\atcsye\skybox_bk.jpg <sup>[1](#Credit-1)</sup> \
+env\atcsye\skybox_dn.jpg <sup>[1](#Credit-1)</sup> \
+env\atcsye\skybox_ft.jpg <sup>[1](#Credit-1)</sup> \
+env\atcsye\skybox_lf.jpg <sup>[1](#Credit-1)</sup> \
+env\atcsye\skybox_rt.jpg <sup>[1](#Credit-1)</sup> \
+env\atcsye\skybox_up.jpg <sup>[1](#Credit-1)</sup> \
+levelshots\atcsye.jpg <sup>[1](#Credit-1)</sup> \
+maps\atcsye.map <sup>[1, 4](#Credit-1)</sup> \
+scripts\atcsye.arena <sup>[1](#Credit-1)</sup> \
+scripts\atcsye.shader <sup>[1](#Credit-1)</sup> \
+scripts\shaderlist.txt <sup>[1](#Credit-1)</sup> \
+sounds\atcsye\ambient.wav <sup>[?](#Credit-?)</sup> \
+sounds\atcsye\ing_fan02.wav <sup>[?](#Credit-?)</sup> \
+sounds\atcsye\ing_noiseloop02.wav <sup>[?](#Credit-?)</sup> \
+textures\atcsye\black.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\floor_checkerplates.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\light_plates_blue.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\light_plates_red.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\light_small_01.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\light_small_01_add.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\light_small_01_add_blue.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\light_small_01_add_red.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\nature_rocks.jpg <sup>[3](#Credit-3)</sup> \
+textures\atcsye\nature_water.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\sfx_forcefield.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\sfx_forcefield_base.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\sfx_unvq.jpg <sup>[1, 5](#Credit-5)</sup> \
+textures\atcsye\sfx_unvq_add.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\sfx_ye.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\sign_bases.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\sign_edge.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\sign_edge_add.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_02.jpg <sup>[1, 2](#Credit-1)</sup> \
+textures\atcsye\tech_03.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_04.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_05.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_06.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcsye\tech_07.jpg <sup>[1, 2](#Credit-1)</sup> \
+textures\atcsye\tech_box_01.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_box_02.jpg <sup>[1, 2](#Credit-1)</sup> \
+textures\atcsye\tech_caution.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_pipe_01.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_pipes.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_plates.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\tech_shield.jpg <sup>[2](#Credit-2)</sup> \
+textures\atcsye\tech_vent.jpg <sup>[1, 2](#Credit-1)</sup> \
+textures\atcsye\trim_01.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_blue.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_mid.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_neutral.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_red.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_step_01.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_step_02.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_step_03.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_thin.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_thin_02.jpg <sup>[1](#Credit-1)</sup> \
+textures\atcsye\wall_01_thin_03.jpg <sup>[1](#Credit-1)</sup> 
 ***
 
 ### Credit-1
