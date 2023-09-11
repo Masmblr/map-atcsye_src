@@ -83,9 +83,6 @@ maps\atcsye.map <sup>[1, 4](#Credit-1)</sup> \
 scripts\atcsye.arena <sup>[1](#Credit-1)</sup> \
 scripts\atcsye.shader <sup>[1](#Credit-1)</sup> \
 scripts\shaderlist.txt <sup>[1](#Credit-1)</sup> \
-sounds\atcsye\ambient.wav <sup>[0](#Credit-0)</sup> \
-sounds\atcsye\ing_fan02.wav <sup>[0](#Credit-0)</sup> \
-sounds\atcsye\ing_noiseloop02.wav <sup>[0](#Credit-0)</sup> \
 textures\atcsye\black.jpg <sup>[1](#Credit-1)</sup> \
 textures\atcsye\floor_checkerplates.jpg <sup>[1](#Credit-1)</sup> \
 textures\atcsye\light_plates_blue.jpg <sup>[1](#Credit-1)</sup> \
